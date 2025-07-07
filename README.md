@@ -3,7 +3,9 @@
 
 Local Boost AI is a web application that helps local businesses generate tailored digital marketing strategies, website feature ideas, and social media content in seconds. It uses the Google Gemini API to provide creative and actionable ideas based on the user's business type, location, and brand personality.
 
-This project was built to demonstrate the power of generative AI for small businesses and is promoted by [CIT.org.in](https://www.cit.org.in/) for web design and marketing implementation.
+This project was built to demonstrate the power of generative AI for small businesses and is promoted by [CIT](https://www.cit.org.in/) for web design and marketing implementation.
+
+![App preview screenshot](https://i.ibb.co/Dgw9jZYW/image.png)
 
 ## Features
 
